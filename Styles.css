@@ -1,0 +1,193 @@
+body{
+  font-size: 16px;
+}
+/* *********************************Top-navbar********************************* */
+.top_container{
+
+  text-align: center;
+  background-color: #ff8f70;
+  color: #ffffff;
+  font-family: 'Overpass', sans-serif;
+  border-radius: 0px 0px 0px 6rem;
+  background-image: url("bg-pattern-intro.svg");
+  background-color: #ff3d54;
+}
+.first_class_nav{
+  padding-top: 2rem;
+
+
+}
+.first_container{
+  padding-top: 10rem;
+  padding-bottom: 8rem;
+}
+
+.text_first{
+  padding-bottom: 1rem;
+  font-size: 4rem;
+}
+.text_second{
+  padding-bottom: 2rem;
+}
+.buttom_first{
+  margin-right: 1rem;
+}
+
+
+
+
+
+/*
+********************************************first_container******************************** */
+.second_container{
+  color: #2c2d3f;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.images_first{
+  padding-top: 5rem;
+  padding-left: 1rem;
+  float: right;
+  object-fit:cover;
+  object-position: left;
+  width: 40rem;
+  height: 65rem;
+}
+
+.text_second_container{
+  padding-top: 7rem;
+  text-align: left;
+  margin-top: 4rem;
+  margin-bottom: 400px;
+}
+.designed_text{
+  text-align: right;
+  padding-bottom: 5rem;
+  font-weight: bold;
+}
+.h3_first{
+  margin-left: 10rem;
+  line-height: 2;
+}
+.h3_class{
+  margin-bottom: 2rem;
+  font-weight: bold;
+}
+.p_class{
+  margin-bottom: 4rem;
+}
+
+
+
+/*
+************************************Third Container******************************************** */
+
+
+.third_container{
+  background-color: #3f4164;
+    text-align: center;
+    color: #ffffff;
+    border-radius: 0px 7rem;
+}
+
+.image_third{
+  float: left;
+  margin-left: 10rem;
+  margin-right: 4rem;
+
+}
+.h3_third{
+  font-family: "Montserrat-bold";
+  padding-top: 10rem;
+  font-size: 2.5rem;
+  padding-bottom: 10px;
+  text-align: left;
+  padding-right: 6rem;
+}
+
+
+.p_third{
+  padding-bottom: 10rem;
+  text-align: left;
+  line-height: 2;
+  padding-right: 10rem;
+
+}
+
+
+
+/*  ////////////////////////////////////////Fourth  Container */
+
+.images_fourth{
+  float: left;
+  object-fit:cover;
+  object-position: right;
+  height: 56rem;
+  width : 50rem;
+}
+.h3_fourth{
+  padding-top: 20rem;
+  padding-bottom: 2rem;
+  text-align: left;
+  font-weight: bold;
+}
+.h3_fourth_2{
+  padding-bottom: 1rem;
+  text-align: left;
+  font-weight: bold;
+}
+
+.p_class_4{
+  margin-bottom: 4rem;
+  text-align: left;
+  padding-right: 12rem;
+
+}
+.fourth_container{
+  text-align: center;
+  line-height: 1.8;
+  color: #2c2d3f;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+
+
+
+/*
+//////////////////////////////////////////////// Last Container ////////////////////////////////////////////////// */
+
+
+.last_container{
+  background-color: #25252d;
+  color: #ffffff;
+  margin-top: 20rem;
+  padding-bottom: 5rem;
+  border-radius: 0px 5rem 0px 0px;
+
+}
+
+
+.company_name{
+    padding-left: 100px;
+    padding-top: 40px;
+    font-size: 2rem;
+}
+
+.topic_name{
+  padding-top: 4rem;
+  padding-left: 30px;
+  margin-bottom: 25px;
+}
+a{
+  color: #ffff;
+  text-decoration: none;
+}
+.ull{
+  list-style-type: none;
+  line-height: 2;
+  
+}
+
+.a:hover{
+  text-decoration: underline;
+}
